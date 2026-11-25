@@ -1,0 +1,21 @@
+product_id,product_name,category,sub_category,brand,unit_cost_gbp,list_price_gbp,avg_rating,review_count
+AMZ-1001,EchoDot-Style Smart Speaker (5th Gen),Electronics,Smart Home,AmzBasics Tech,22.0,49.99,4.7,1420
+AMZ-1002,Active Noise Cancelling Wireless Headphones,Electronics,Audio,SoundPulse,48.0,119.99,4.5,860
+AMZ-1003,USB-C 65W Fast Wall Charger GaN,Electronics,Accessories,VoltCore,9.5,24.99,4.6,2150
+AMZ-1004,4K Ultra HD Streaming Media Stick,Electronics,TV & Video,AmzBasics Tech,18.0,39.99,4.6,1890
+AMZ-1005,1080p Full HD Webcam with Privacy Cover,Electronics,Computers,ClearView,14.0,34.99,4.3,540
+AMZ-2001,5.5L Digital Air Fryer Non-Stick Basket,Home & Kitchen,Kitchen Appliances,ChefMate,36.0,84.99,4.7,1640
+AMZ-2002,Insulated Stainless Steel Travel Mug 500ml,Home & Kitchen,Drinkware,ThermoSip,6.5,18.99,4.8,3120
+AMZ-2003,Cordless Stick Vacuum Cleaner Lightweight,Home & Kitchen,Floorcare,PureSweep,62.0,149.0,4.4,620
+AMZ-2004,Memory Foam Ergonomic Cervical Pillow,Home & Kitchen,Bedding,CloudRest,12.5,32.99,4.4,980
+AMZ-2005,12-Piece Glass Food Storage Container Set,Home & Kitchen,Kitchen Storage,ChefMate,11.0,27.99,4.6,1120
+AMZ-3001,Practical SQL & Data Analytics Handbook,Books,Tech & Computing,O-Press,12.0,34.99,4.8,410
+AMZ-3002,Atomic Habits & Daily Systems (Paperback),Books,Self-Development,Penguin House,5.5,14.99,4.9,4500
+AMZ-3003,The Midnight Library (Fiction Paperback),Books,Fiction,Canongate,4.5,10.99,4.5,2900
+AMZ-4001,Non-Slip High-Density Yoga Mat 6mm,Sports & Outdoors,Fitness,ZenFit,8.0,21.99,4.6,1340
+AMZ-4002,Adjustable Dumbbell Pair (2kg - 10kg),Sports & Outdoors,Strength Training,IronGrip,28.0,69.99,4.5,490
+AMZ-4003,Waterproof 30L Hiking Daypack Backpack,Sports & Outdoors,Camping & Hiking,TrailPeak,15.0,38.99,4.6,770
+AMZ-5001,Sonic Electric Toothbrush with 4 Brush Heads,Beauty & Personal Care,Oral Care,SmilePro,14.5,39.99,4.6,1580
+AMZ-5002,Hyaluronic Acid Hydrating Facial Serum 50ml,Beauty & Personal Care,Skincare,DermaGlow,5.0,16.99,4.5,1920
+AMZ-6001,Ergonomic Mesh Office Desk Chair,Office Products,Office Furniture,WorkEase,58.0,139.99,4.3,680
+AMZ-6002,Aluminium Foldable Laptop Stand Riser,Office Products,Desk Accessories,VoltCore,8.5,22.99,4.7,1490
